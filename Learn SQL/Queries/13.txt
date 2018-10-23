@@ -1,0 +1,5 @@
+SELECT *
+FROM movies
+WHERE imdb_rating IS NOT null
+ORDER BY -imdb_rating
+LIMIT 10;
