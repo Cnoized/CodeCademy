@@ -1,0 +1,1 @@
+CREATE TABLE celebs (id INTERGER, name TEXT, age INTEGER);
