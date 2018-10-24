@@ -1,0 +1,4 @@
+SELECT *
+FROM classes
+JOIN students
+ON students.class_id = classes.id;
