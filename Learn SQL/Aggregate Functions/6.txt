@@ -1,0 +1,2 @@
+SELECT name, ROUND(AVG(price), 0)
+FROM fake_apps;
